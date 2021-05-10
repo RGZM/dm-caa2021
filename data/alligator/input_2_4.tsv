@@ -1,9 +1,0 @@
-name	x	y	z	von	bis	fixed
-AlbLimes	-0.365	-1.456	0.159	97	260	fixed
-DonauLimesPhase1 	0.778	-0.062	0.029	30	70	fixed
-DonauLimesPhase2	0.038	-0.192	-0.694	70	260	fixed
-Elisabethenstrasse	0.246	0.214	0.141	74	104	fixed
-HadriansWall	-1.435	-1.674	1.015	0	0	schwebend
-NoordzeeKust	-0.670	0.319	1.675	0	0	schwebend
-Neckarlimes	-0.251	0.183	-0.740	117	260	fixed
-Wetteraulimes	-1.049	0.289	-0.154	110	260	fixed

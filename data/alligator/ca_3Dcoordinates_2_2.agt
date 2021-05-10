@@ -1,0 +1,14 @@
+#9999
+#0.266|0.157|0.133
+#data
+name	x	y	z	von	bis	fixed
+AlbLimes	-0.351	-0.258	 1.438	97	260	fixed
+DonauLimesPhase1	 0.777	 0.045	 0.058	30	70	fixed
+DonauLimesPhase2	 0.048	-0.085	 0.198	70	260	fixed
+Elisabethenstrasse	 0.248	-0.022	-0.222	74	104	fixed
+HadriansWall	-1.419	-0.427	 1.633	9999	9999	floating
+Neckarlimes	-0.237	-0.130	-0.177	117	260	fixed
+NoordzeeKust	-0.661	-0.169	-0.348	120	9999	floating
+Odenwaldlimes	-1.920	 0.036	-1.003	110	260	fixed
+RätischeLimes	-0.352	 9.429	 1.261	110	260	fixed
+Wetteraulimes	-1.047	 0.055	-0.270	110	260	fixed
